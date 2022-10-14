@@ -2,7 +2,7 @@
 &nbsp;   
 :white_medium_square:  Estudo Análise e Desenvolvimento de Sistemas (UNINTER Centro Universitário) desde novembro de 2021.
 
-:white_medium_square:  Participando neste momento do Bootcamp Java Beginners da DIO.
+:white_medium_square:  Participando neste momento do Bootcamp Java Beginners promovido pela DIO.
 
 :white_medium_square:  Estou me especializando em desenvolvimento web voltado a e-commerce.
 
