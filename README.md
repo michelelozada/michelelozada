@@ -4,7 +4,7 @@
 
 :white_medium_square:  Participando neste momento do Bootcamp Java Beginners promovido pela DIO.
 
-:white_medium_square:  Estou me especializando em desenvolvimento web voltado a e-commerce.
+:white_medium_square:  Estou me especializando em desenvolvimento back-end.
 
 :white_medium_square:  Tecnologias que já utilizo: PHP  :white_small_square:  JavaScript  :white_small_square:  SQL (MySQL) :white_small_square:   HTML  :white_small_square:   CSS :white_small_square:   Git.
 
