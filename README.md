@@ -2,7 +2,7 @@
 &nbsp;   
 :white_medium_square:  Estudo Análise e Desenvolvimento de Sistemas (UNINTER Centro Universitário) desde novembro de 2021.
 
-:white_medium_square:  Participando neste momento do Programa ONE Oracle Education, promovido pela Oracle e Alura.
+:white_medium_square:  Participando neste momento do programa ONE Oracle Education, promovido pela Oracle e Alura.
 
 :white_medium_square:  Estou me especializando em desenvolvimento back-end.
 
