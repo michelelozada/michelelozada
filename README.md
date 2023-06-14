@@ -2,7 +2,7 @@
 &nbsp;   
 :white_medium_square:  Estudo Análise e Desenvolvimento de Sistemas (UNINTER Centro Universitário).
 
-:white_medium_square:  Participando neste momento do programa ONE (Oracle Next Education), promovido pela Oracle e Alura, na especialização em front-end/React.
+:white_medium_square:  Desenvolvedora em formação, estudando neste momento front-end (com React).
 
 :white_medium_square:  Tecnologias que já utilizo: PHP  :white_small_square:  JavaScript  :white_small_square:  SQL (MySQL) :white_small_square:   HTML  :white_small_square:   CSS :white_small_square:   Git.
 
